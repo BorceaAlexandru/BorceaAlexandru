@@ -18,16 +18,16 @@ I’m a third-year Systems Engineering student at University POLITEHNICA of Buch
 
 ## 🌱 Currently Exploring
 -⚙️ Embedded & Real-Time Programming
-  -refining control logic, timing constraints, and reliability in C/C++
+  -> refining control logic, timing constraints, and reliability in C/C++
   
 -🌐 IoT & Networking
-  -device connectivity, protocols, and practical networking fundamentals
+  -> device connectivity, protocols, and practical networking fundamentals
   
 -🐧 Operating Systems
-  -strengthening Linux workflows and OS concepts useful for low-level development
+  -> strengthening Linux workflows and OS concepts useful for low-level development
   
 -🧠 Hardware + Software Integration
-  -electronics fundamentals applied in real projects (sensors, debugging, measurements)
+  -> electronics fundamentals applied in real projects (sensors, debugging, measurements)
 
 
 ## 📬 Get in Touch
