@@ -32,9 +32,8 @@ I’m a third-year Systems Engineering student at University POLITEHNICA of Buch
 
 ## 📬 Get in Touch
 
-- Connect with me on [Twitter](https://twitter.com/introvertedbot)
-- Connect with me on [Twitter](https://twitter.com/introvertedbot)
-- Connect with me on [Twitter](https://twitter.com/introvertedbot)
+- Connect with me on [LinkedIn](www.linkedin.com/in/borceaalexandru)
+- Connect with me on [Instagram]([https://twitter.com/introvertedbot](https://www.instagram.com/_alex_borcea_/?__pwa=1))
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
