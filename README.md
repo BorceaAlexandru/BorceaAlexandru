@@ -12,7 +12,7 @@ Third-year Systems Engineering student at University POLITEHNICA from Bucharest,
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,arduino,c,cpp,git,linux,py)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 - ⚙️ Embedded & Real-Time Programming
