@@ -1,15 +1,13 @@
 # Hi, I'm Alex! 👋
 
-I’m a third-year Systems Engineering student at University POLITEHNICA of Bucharest, focused on Embedded Systems and IoT. I enjoy building reliable solutions where software meets hardware — from low-level C/C++ control to real-time, sensor-driven projects. I’m always curious to learn, experiment, and share what I build with the community.
-
-![BorceaAlexandru's Stats](https://github-readme-stats.vercel.app/api?username=BorceaAlexandru&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+Third-year Systems Engineering student at University POLITEHNICA from Bucharest, with a strong focus on Embedded Systems and IoT. Proficient in C/C++ and Python, with solid knowledge of Operating Systems, Digital Electronics and Real-Time Application Programming. Passionate about integrating software and hardware to develop efficient and reliable embedded solutions.
 
 ## 🚀 About Me
 
 - 🔧 I love practical engineering: debugging, measuring, testing, and making things reliable.
-- 🎓 Systems Engineering student @ UPB, specializing in embedded solutions.
-- ⚙️ Comfortable with low-level programming in C/C++ and building prototypes with Arduino.
-- 🧪 I’ve worked on real electronics repairs (appliances, TVs, audio devices), which taught me disciplined troubleshooting.
+- 🎓 Systems Engineering student @ ACSE, University POLITEHNICA from Bucharest
+- ⚙️ Comfortable with C/C++, Python, HTML/CSS/Javascript, SQL
+- 🧪 I’ve worked on real electronics repairs (appliances, TVs, audio devices, desktops), which taught me disciplined troubleshooting.
 - 📌 I’m interested in internships in Embedded / IoT / QA / DevOps where I can ship real, robust systems.
 
 
