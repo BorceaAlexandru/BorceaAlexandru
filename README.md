@@ -15,16 +15,16 @@ Third-year Systems Engineering student at University POLITEHNICA from Bucharest,
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
--⚙️ Embedded & Real-Time Programming
+- ⚙️ Embedded & Real-Time Programming
   -> refining control logic, timing constraints, and reliability in C/C++
   
--🌐 IoT & Networking
+- 🌐 IoT & Networking
   -> device connectivity, protocols, and practical networking fundamentals
   
--🐧 Operating Systems
+- 🐧 Operating Systems
   -> strengthening Linux workflows and OS concepts useful for low-level development
   
--🧠 Hardware + Software Integration
+- 🧠 Hardware + Software Integration
   -> electronics fundamentals applied in real projects (sensors, debugging, measurements)
 
 
